@@ -1,0 +1,22 @@
+{
+  "name": "chinese-calendar",
+  "version": "1.0.0",
+  "description": "The Chinese calendar is a lunisolar calendar which arranges the year, month and day number upon the astronomical date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makersu/chinese-calendar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Maker Su <makersu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makersu/chinese-calendar/issues"
+  },
+  "homepage": "https://github.com/makersu/chinese-calendar#readme"
+}
