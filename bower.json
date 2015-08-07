@@ -1,10 +1,11 @@
 {
-  "name": "lunar-calendar",
+  "name": "chinese-calendar",
   "version": "1.0.0",
-  "homepage": "https://github.com/makersu/lunar-calendar",
+  "homepage": "https://github.com/makersu/chinese-calendar",
   "authors": [
     "Maker Su <makersu@gmail.com>"
   ],
+  "description": "The Chinese calendar is a lunisolar calendar which arranges the year, month and day number upon the astronomical date.",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -12,5 +13,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "keywords": [
+    "calendar"
+  ],
+  "main": "index.js"
 }
