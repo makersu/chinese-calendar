@@ -17,5 +17,5 @@
   "keywords": [
     "calendar"
   ],
-  "main": "index.js"
+  "main": "./index.js"
 }
